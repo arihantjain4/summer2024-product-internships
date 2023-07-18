@@ -46,7 +46,6 @@ Use this repo to share and keep track of product management, program management,
 | Name | Location | Notes |
 | ---- | -------- | ----- |
 | [Goldman Sachs](https://www.goldmansachs.com/careers/students/programs/americas/summer-analyst-program.html) | Global | Summer 2024 Analyst |
-
 | Capital One | Multiple US Locations | [Product Development Intern - Summer 2024](https://www.capitalonecareers.com/job/-/-/1732/51746418592?source=rd_linkedin_job_posting_tm&utm_source=linkedin.com&utm_medium=job_posting&utm_campaign=S_G&utm_content=social_media&utm_term=353384675&ss=paid&dclid=CNn679mWmYADFTkiRAgdUNgEJQ) |
 
 
