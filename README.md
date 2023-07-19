@@ -23,7 +23,7 @@ Use this repo to share and keep track of product management, program management,
 
 ## We love our contributors ❤️❤️
 Make a [pull request](https://github.com/susam/gitpr#create-pull-request) to help contribute.
-<a href="https://github.com/pittcsc/Summer2024-Internships/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=pittcsc/Summer2024-Internships&columns=24&max=480" />
+<a href="https://github.com/aajain2/summer2024-product-internships/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=aajain2/summer2024-product-internships" />
 </a>
 *Made with [contrib.rocks](https://contrib.rocks).*
